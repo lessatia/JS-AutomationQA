@@ -2,7 +2,7 @@ const {
   startClientPC,
   startSatelite,
   stopClientPC,
-  stopEarthServer,
+  stopEarthServer, 
   stopSatelite,
   stopMarsServer,
   startEarthServer,
